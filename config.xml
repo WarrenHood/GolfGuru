@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns   = ""
+        xmlns:gap   = ""
+        id          = "Golf Instruction"
+        versionCode = "001" 
+        version     = "0.0.1" >
+
+    <!-- versionCode is optional and Android only -->
+
+    <name>Golf Instruction</name>
+
+    <description>
+       
+	   </description>
+
+    <author href="" email="nullbyte001@gmail.com">
+        Warren Hood
+    </author>
+	<preference name="DisallowOverscroll" value="true" />
+ <preference name="orientation" value="portrait" />
+  <preference name="fullscreen" value="true" />
+  <preference name='uiwebviewbounce' value='false' />
+  <icon src='icon.png' height='50' width='50'/>
+</widget>
